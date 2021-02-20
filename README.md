@@ -2,7 +2,7 @@
 
 ## Contents
 
-[![alt text](https://img.shields.io/badge/Ref%201.0-Complete%20Procedure%20of%20system%20startup-yellow)(https://github.com/NashoNightmare/Article-Library#ref-10----complete-procedure-of-system-startup)
+[![alt text](https://img.shields.io/badge/Ref%201.0-Complete%20Procedure%20of%20system%20startup-yellow)](https://github.com/NashoNightmare/Article-Library#ref-10----complete-procedure-of-system-startup)
 
 ## Ref 1.0  - Complete Procedure of System Startup
 
